@@ -1,1 +1,0 @@
-C:\Users\eskil\source\repos\IndaPlus22\eskilny-task-2\kattis_problems\avstand_till_kanten\target\debug\avstand_till_kanten.exe: C:\Users\eskil\source\repos\IndaPlus22\eskilny-task-2\kattis_problems\avstand_till_kanten\src\main.rs

@@ -1,1 +1,0 @@
-C:\Users\eskil\source\repos\IndaPlus22\eskilny-task-2\kattis_problems\summera_tal\target\debug\summera_tal.exe: C:\Users\eskil\source\repos\IndaPlus22\eskilny-task-2\kattis_problems\summera_tal\src\main.rs

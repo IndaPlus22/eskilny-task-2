@@ -1,1 +1,0 @@
-C:\Users\eskil\source\repos\IndaPlus22\eskilny-task-2\kattis_problems\a_different_problem\target\debug\a_different_problem.exe: C:\Users\eskil\source\repos\IndaPlus22\eskilny-task-2\kattis_problems\a_different_problem\src\main.rs
